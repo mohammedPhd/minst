@@ -117,6 +117,7 @@ The following figures illustrate the learning curves of each model:
 | LSTM  | 141.45         | 0.0509    | 0.9845        |
 | CNN   | 421.79         | 0.0289    | 0.9913        |
 
+![Model Comparison](https://github.com/mohammedPhd/minst/blob/main/outputs/figures/comparison.png)
 ---
 
 ## 8. Discussion
